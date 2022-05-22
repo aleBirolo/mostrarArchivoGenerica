@@ -1,0 +1,2 @@
+cadena1    subcadena1       1
+cad2       subcana2         2

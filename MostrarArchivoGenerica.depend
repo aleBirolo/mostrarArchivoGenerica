@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653257163 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\mostrararchivogenerica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
